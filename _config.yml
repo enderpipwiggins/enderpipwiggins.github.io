@@ -1,0 +1,5 @@
+title: Phillip Andreason — Portfolio
+description: Software developer portfolio showcasing public projects.
+theme: minima
+plugins:
+  - jekyll-seo-tag
